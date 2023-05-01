@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "title": "Apple iPhone 13",
+      "price": 799,
+      "brand": "Apple",
+      "description": "6.1-inch Super Retina XDR display, A15 Bionic chip, 128GB/256GB/512GB storage, Dual-camera system with 12MP Ultra Wide and Wide cameras, iOS 15",
+      "image": "Apple iPhone 13.png",
+      "url": "Apple-iPhone-13"
+    },
+    {
+      "title": "Samsung Galaxy S21",
+      "price": 799,
+      "brand": "Samsung",
+      "description": "6.2-inch Dynamic AMOLED 2X display, Exynos 2100 processor, 128GB/256GB storage, Triple-camera system with 64MP Telephoto, 12MP Wide, and 12MP Ultra Wide cameras, Android 11",
+      "image": "Samsung Galaxy S21.png",
+      "url": "Samsung-Galaxy-S21"
+    },
+    {
+      "title": "Sony PlayStation 5",
+      "price": 499,
+      "brand": "Sony",
+      "description": "AMD Zen 2-based CPU with 8 cores at 3.5GHz, AMD RDNA 2-based GPU with 36 CUs at 2.23GHz, 16GB GDDR6 RAM, 825GB SSD storage, 4K UHD Blu-ray drive, DualSense Wireless Controller",
+      "image": "Sony PlayStation 5.png",
+      "url": "Sony-PlayStation-5"
+    },
+    {
+      "title": "Dell XPS 13",
+      "price": 1299,
+      "brand": "Dell",
+      "description": "13.3-inch FHD display, 11th Generation Intel Core i7-1165G7 processor, Intel Iris Xe graphics, 16GB RAM, 512GB SSD storage, Windows 10",
+      "image": "Dell XPS 13.png",
+      "url": "Dell-XPS-13"
+    },
+    {
+      "title": "Apple MacBook Pro 16-inch",
+      "price": 2399,
+      "brand": "Apple",
+      "description": "16-inch Retina display, 9th-generation 8-core Intel Core i9 processor, AMD Radeon Pro 5500M graphics, 16GB RAM, 512GB/1TB SSD storage, macOS Big Sur",
+      "image": "Apple MacBook Pro 16-inch.png",
+      "url": "Apple-MacBook-Pro-16-inch"
+    },
+    {
+      "title": "Microsoft Surface Pro 7",
+      "price": 799,
+      "brand": "Microsoft",
+      "description": "12.3-inch PixelSense display, 10th Generation Intel Core i5 processor, Intel UHD Graphics, 8GB RAM, 128GB SSD storage, Windows 10",
+      "image": "Microsoft Surface Pro 7.png",
+      "url": "Microsoft-Surface-Pro-7"
+    },
+    {
+      "title": "Sony Alpha a7 III",
+      "price": 1999,
+      "brand": "Sony",
+      "description": "24.2MP full-frame sensor, 4K video, 5-axis in-body image stabilization, 693-point AF system, 10fps continuous shooting, Wi-Fi, NFC, Bluetooth",
+      "image": "Sony Alpha a7 III.png",
+      "url": "Sony-Alpha-a7-III"
+    },
+    {
+      "title": "LG CX OLED TV",
+      "price": 1999,
+      "brand": "LG",
+      "description": "55-inch/65-inch/77-inch OLED display, 4K resolution, HDR10, Dolby Vision, Dolby Atmos, NVIDIA G-SYNC, AMD FreeSync, webOS 5.0",
+      "image": "LG CX OLED TV.png",
+      "url": "LG-CX-OLED-TV"
+    }
+  ]
+}
